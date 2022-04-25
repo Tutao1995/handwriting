@@ -33,3 +33,12 @@ const deepClone = source => {
     }
     return result
 }
+
+/* 
+    暴力克隆
+    JSON.parse(JSON.stringify(obj))
+
+    问题：当属性值为function时，这样的属性不能克隆
+*/
+
+const forceClone = obj => JSON.parse(JSON.stringify(obj))
