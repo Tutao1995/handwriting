@@ -20,6 +20,8 @@
 
 ### [发布订阅](https://github.com/Tutao1995/handwriting/blob/main/eventBus.js)
 
+### [观察者模式](https://github.com/Tutao1995/handwriting/blob/main/observer.js)
+
 ### [打乱数组](https://github.com/Tutao1995/handwriting/blob/main/random.js)
 
 ### [数组转树形](https://github.com/Tutao1995/handwriting/blob/main/arrya2Tree.js)
